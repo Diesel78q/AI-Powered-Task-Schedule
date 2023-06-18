@@ -6,9 +6,13 @@ The AI-Powered Task Scheduler is a project developed as part of my learning jour
 Technologies Used:
 
 Python programming language
+
 OpenAI GPT language model
+
 Git version control system
+
 How It Works:
+
 
 User inputs their tasks for the day, including activities, study/work sessions, and meal times (breakfast, lunch, dinner).
 The application processes the user's inputs and sends them as a prompt to the OpenAI GPT-3.5 model.
